@@ -40,5 +40,5 @@ Exploratory data analysis of the IBM HR dataset (1,470 employees) to find the fa
 
 ## How to run
 1. Download the CSV from the Kaggle link above, or use the copy in this repo.
-2. Open `HR_Attrition_Analysis.ipynb` in Google Colab or Jupyter.
+2. Open `HR_Attrition_Analysis(1).ipynb` in Google Colab or Jupyter.
 3. Upload the CSV next to the notebook and run all cells.
